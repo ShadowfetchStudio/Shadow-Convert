@@ -59,6 +59,8 @@ Optional: an FFmpeg build with NVENC, libwebp, libaom-av1, libmp3lame, libopus.
 - GIF conversion re-encodes and can be slow on long clips
 - Hardware encode is detected at runtime. It is never assumed from a particular GPU
 
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
